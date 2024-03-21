@@ -2,7 +2,7 @@
 
 <b>Para indicador de power</b><br>
 1. Conectar Led a resistencia de 330 ohms a 500ohms.<br>
-2. En raspberry
+2. En raspberry<br>
     Pin 6 - positivo de led<br>
     Pin 8 u otro Pin a Posicion Tierra disponible<br>
 5. Agregar en /boot/config.txt<br>
